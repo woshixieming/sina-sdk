@@ -6,7 +6,7 @@
  * Time: 11:19
  */
 
-namespace sinaSDK;
+namespace think\sinaSDK;
 
 
 class SaeTOAuthV2 {
