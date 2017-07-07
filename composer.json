@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "sina-sdk\\": "src/"
+            "woshixieming\\sina-sdk\\": "src/"
         }
     }
 }
