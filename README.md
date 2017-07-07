@@ -1,2 +1,2 @@
 # sina-sdk
-sinaSDK
+新浪SDK For ThinkPHP5.0
