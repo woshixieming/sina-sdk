@@ -3,7 +3,6 @@
     "description": "sinaSDK",
     "homepage": "",
     "license": "Apache-2.0",
-    "minimum-stability": "stable",
     "version": "0.0.1",
     "authors": [
         {
