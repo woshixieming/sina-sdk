@@ -6,7 +6,7 @@
  * Time: 11:19
  */
 
-namespace weibo;
+namespace sinaSDK;
 
 
 class SaeTOAuthV2 {

@@ -1,5 +1,5 @@
 {
-    "name": "weibo",
+    "name": "sinaSDK",
     "description": "sinaSDK",
     "homepage": "",
     "license": "Apache-2.0",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "weibo\\": "src/"
+            "sinaSDK\\": "src/"
         }
     }
 }
