@@ -1,5 +1,5 @@
 {
-    "name": "ryan-shieh/sina-sdk",
+    "name": "woshixieming/sina-sdk",
     "description": "sinaSDK",
     "homepage": "",
     "license": "Apache-2.0",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "sinaSDK\\": "src/"
+            "sina-sdk\\": "src/"
         }
     }
 }
