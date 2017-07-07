@@ -1,0 +1,22 @@
+{
+    "name": "weibo",
+    "description": "sinaSDK",
+    "homepage": "",
+    "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "XieMing",
+            "email": "155219845@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "weibo\\": "src/"
+        }
+    }
+}
